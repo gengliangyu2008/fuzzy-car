@@ -112,3 +112,7 @@ venv.bak/
 
 # ignore all intellij project files
 /.idea/*
+
+# ignore pip files
+/Pipfile
+/Pipfile.lock
