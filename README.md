@@ -80,6 +80,10 @@ Every coordinates between the fourth and last line are the corner point of the w
 
 ## Dependencies
 
+**Attention:** <br/>
+Below QT library(pyside2) is not working well under anaconda env, it popup an error "could not find or load the Qt platform plugin"<br/>
+So need to create a python env with pipenv and do the installations. 
+
 * [numpy](http://www.numpy.org/)
 
 ``` bash
